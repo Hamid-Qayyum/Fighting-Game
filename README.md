@@ -1,2 +1,5 @@
 # Fighting-Game
-A fighting game created  with Java Script
+This is a multiplayer fighting game. 
+Created with java script.
+It's not completed yet.
+
